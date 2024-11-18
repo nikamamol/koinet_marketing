@@ -12,7 +12,7 @@ function App() {
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
-     Shital Vedi ahe
+     Amol  Veda ahe
       </div>
       <h1>Vite + React</h1>
       <div className="card">
